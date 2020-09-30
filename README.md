@@ -1,5 +1,9 @@
 # random-email-generator
 
+Generate randomized email addresses
+
+![](aScreenShot.png)
+
 ## Install instructions
 
 Git clone to your web server
