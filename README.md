@@ -1,6 +1,8 @@
 # random-email-generator
 
-Generate randomized email addresses
+Generate randomized email addresses.
+
+Demo (based on example config file): [https://twily.me/random-email-generator-demo/](https://twily.me/random-email-generator-demo/)
 
 ![](aScreenShot.png)
 
