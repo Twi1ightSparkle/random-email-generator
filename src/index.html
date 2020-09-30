@@ -52,7 +52,9 @@
             // Load + set config and generate a new address on page load
             window.onload = function() {
                 setConfig();
-                loadDefaults();
+                if (activateLocalStorage) {
+                    loadDefaults();
+                }
                 newAddress();
             }
         </script>
