@@ -1,8 +1,6 @@
 # random-email-generator
 
-Generate randomized email addresses.
-
-Demo (based on example config file): [https://twily.me/random-email-generator-demo/](https://twily.me/random-email-generator-demo/)
+Generate randomised email addresses.
 
 ![](aScreenShot.png)
 
@@ -19,5 +17,3 @@ All is done with JavaScript in browser. No server side code execution.
 ## Credits
 
 Theme / Styling: [http://getskeleton.com/](http://getskeleton.com/)
-
-Copy function: [https://clipboardjs.com/](https://clipboardjs.com/)
